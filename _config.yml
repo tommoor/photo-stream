@@ -23,11 +23,11 @@ email: tom.moor@gmail.com
 author:
   name: Tom Moor
   email: tom.moor@gmail.com
-  website: https://www.tommoor.com
+  website: https://tommoor.com
 description: >- # this means to ignore newlines until "baseurl:"
   @tommoor's minimalistic, self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maxvoltar.photo/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.tommoor.com/photo-stream" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tommoor
 github_username: tommoor
 instagram_username: tommoor
